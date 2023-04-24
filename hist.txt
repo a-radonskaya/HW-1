@@ -1,0 +1,378 @@
+    1  ls 
+    2  ls-la
+    3  ls-a
+    4  ls
+    5  vim
+    6  mkdir dir_1
+    7  cd test 
+    8  ls-la
+    9  addgroup 
+   10  adduser
+   11  history
+   12  pw
+   13  pwd
+   14  pwd
+   15  ca-c
+   16  cw
+   17  ls
+   18  mkdir
+   19  pwd
+   20  ls
+   21  ls-l
+   22  ls-a
+   23  ls -a
+   24  ls -l
+   25  cd ..
+   26  ls-la
+   27  mkdir group_34
+   28  pwd
+   29  ls
+   30  ls-a
+   31  ls -a
+   32  ls -l
+   33  ls -a
+   34  cd ..
+   35  ls -l
+   36  cd курс\ тестирование/
+   37  mcdir group_34
+   38  mkdir group_34
+   39  cd group_34
+   40  mkdir dir_1 dir_2 dir_3
+   41  ls-la
+   42  ls -la
+   43  mkdir dir_1/dir_1_1
+   44  ls-la
+   45  ls -la
+   46  ls -la dir_1
+   47  rm dir_2
+   48  rm-r dir_2
+   49  rm-r dir_2
+   50  rm -r dir_2
+   51  ls -la dir_2
+   52  ls-la
+   53  ls -la
+   54  mkdir dir_2
+   55  ls -la
+   56  clear
+   57  history
+   58  touch 1.txt
+   59  ls -la
+   60  cat > 2.txt
+   61  ls -la
+   62  cat >>2.txt
+   63  ls -la
+   64  cat 2.txt
+   65  pwd
+   66  ls -la
+   67  ls -la dir_1
+   68  rm dir_2
+   69  rm -r dir_2
+   70  ls -la 
+   71  mkdir dir_2
+   72  ls -la
+   73  cat >> 2.txt
+   74  ls -la
+   75  cat 2.txt
+   76  cat > 2.txt
+   77  cat 2.txt
+   78  cat > 2.txt
+   79  cat 2.txt
+   80  rm 1.txt
+   81  ls -la
+   82  cp 2.txt dir_1/2.txt
+   83  ls -la
+   84  ls la dir_1
+   85  ls - la dir_1
+   86  ls -ls dir_1
+   87  ls -la dir_1
+   88  cat dir_1/2.txt
+   89  mv 2.txt dir_2/2.txt
+   90  ls -la
+   91  cd dir_2
+   92  ls -la
+   93  cd ..
+   94  cd dir_2
+   95  ls
+   96  mv 2.txt 7.txt
+   97  ls -la
+   98  cd ..
+   99  cd dir_2
+  100  ls
+  101  vim 7.txt
+  102  ls -la
+  103  cat 7.txt
+  104  open .
+  105  explorer .
+  106  ls -la
+  107  mv 7.txt 7.json
+  108  ls
+  109  vim 7.json
+  110  histort
+  111  history
+  112  history >> hist.txt
+  113  ls -la
+  114  cat hist.txt
+  115  cat hist.txt
+  116  pwd
+  117  pwd
+  118  mkdir
+  119  mkdir group_34
+  120  ls
+  121  pwd
+  122  mkdir group_34
+  123  ls -la
+  124  pwd
+  125  mkdir folder_1
+  126  mkdir folder_2 folder_3 folder_4
+  127  ls -la
+  128  ls
+  129  pwd
+  130  pwd
+  131  pwd
+  132  mkdir folder_1
+  133  ls
+  134  ls -la
+  135  ls
+  136  mkdir folder_2
+  137  ls-ls
+  138  ls-la
+  139  ls -la
+  140  cd folder_1
+  141  ls
+  142  rm folder_2
+  143  pwd
+  144  mkdir folder_1
+  145  ls
+  146  cd folder_1
+  147  mkdeir folder_2
+  148  mkdir folder_2
+  149  mkdir folder_2 folder_3
+  150  mkdir folder_3
+  151  mkdir folder_4
+  152  cd folder_3
+  153  pwd
+  154  mkdir folder_1
+  155  cd folder_1
+  156  mkdir dir_1 dir_2 dir_3
+  157  cd dir_1
+  158  ls -la folder_1
+  159  ls -la
+  160  touch 1.txt 2.txt 3.txt
+  161  touch 1.json 2.json
+  162  ls -la dir_1
+  163  ls -la
+  164  mkdir dir_2 dir_3 dir_4
+  165  ls -la
+  166  cat > 1.txt 
+  167  cat 1.txt
+  168  cat >> 1.txt
+  169  cat 1.txt
+  170  cat > 1.txt
+  171  cat 1.txt
+  172  cat > 1.txt 
+  173  cat 1.txt
+  174  cat > 1.txt
+  175  cat 1.txt
+  176  cat > 1.txt 
+  177  cat 1.txt
+  178  cat >> 1.txt 
+  179  cat 1.txt
+  180  pwd
+  181  mkdir folder_1
+  182  cd folder_1
+  183  mkdir dir_1 dir_2 dir_3
+  184  cd dir_1
+  185  touch 1.txt 2.txt 3.txt 1.json 2.json
+  186  ls -la
+  187  mkdir subdir_1 subdir_2 subdir_3
+  188  ls -la
+  189  cat 1.txt
+  190  cat > 1.txt
+  191  cat 1.txt
+  192  cat >> 1.txt
+  193  cat 1.txt
+  194  cd ..
+  195  mv 1.txt 2.txt dir_1/dir_2
+  196  mv 1.txt dir_2/1.txt
+  197  cd dir_1
+  198  mv 1.txt dir_2/1.txt
+  199  mv 1.json subdir_1/1.json
+  200  mv 2.json subdir_1/2.json
+  201  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование
+  202  $ pwd
+  203  /d/курс тестирование
+  204  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование
+  205  $ mkdir folder_1
+  206  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование
+  207  $ cd folder_1
+  208  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1
+  209  $ mkdir dir_1 dir_2 dir_3
+  210  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1
+  211  $ cd dir_1
+  212  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  213  $ touch 1.txt 2.txt 3.txt 1.json 2.json
+  214  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  215  $ ls -la
+  216  total 0
+  217  drwxr-xr-x 1 Lenovo 197121 0 Apr 17 23:07 ./
+  218  drwxr-xr-x 1 Lenovo 197121 0 Apr 17 23:05 ../
+  219  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 1.json
+  220  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 1.txt
+  221  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 2.json
+  222  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 2.txt
+  223  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 3.txt
+  224  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  225  $ mkdir subdir_1 subdir_2 subdir_3
+  226  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  227  $ ls -la
+  228  total 4
+  229  drwxr-xr-x 1 Lenovo 197121 0 Apr 17 23:11 ./
+  230  drwxr-xr-x 1 Lenovo 197121 0 Apr 17 23:05 ../
+  231  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 1.json
+  232  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 1.txt
+  233  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 2.json
+  234  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 2.txt
+  235  -rw-r--r-- 1 Lenovo 197121 0 Apr 17 23:07 3.txt
+  236  drwxr-xr-x 1 Lenovo 197121 0 Apr 17 23:11 subdir_1/
+  237  drwxr-xr-x 1 Lenovo 197121 0 Apr 17 23:11 subdir_2/
+  238  drwxr-xr-x 1 Lenovo 197121 0 Apr 17 23:11 subdir_3/
+  239  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  240  $ cat 1.txt
+  241  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  242  $ cat > 1.txt
+  243  Hello$ cat > 1.txt!
+  244  HelloHello$ cat > 1.txt!!
+  245  HelloHelloHello$ cat > 1.txt!!!
+  246  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  247  $ cat 1.txt
+  248  Hello$ cat 1.txt!
+  249  HelloHello$ cat 1.txt!!
+  250  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  251  $ cat >> 1.txt
+  252  Hello$ cat >> 1.txt!
+  253  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  254  $ cat 1.txt
+  255  Hello$ cat 1.txt!
+  256  HelloHello$ cat 1.txt!!
+  257  HelloHelloHello$ cat 1.txt!!!
+  258  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  259  $ cd ..
+  260  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1
+  261  $ mv 1.txt 2.txt dir_1/dir_2
+  262  mv: target 'dir_1/dir_2' is not a directory
+  263  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1
+  264  $ mv 1.txt dir_2/1.txt
+  265  mv: cannot stat '1.txt': No such file or directory
+  266  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1
+  267  $ cd dir_1
+  268  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  269  $ mv 1.txt dir_2/1.txt
+  270  mv: cannot move '1.txt' to 'dir_2/1.txt': No such file or directory
+  271  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  272  $ mv 1.json subdir_1/1.json
+  273  Lenovo@DESKTOP-JGTPTH0 MINGW64 /d/курс тестирование/folder_1/dir_1
+  274  $ mvclear
+  275  cd subdir_1
+  276  ls
+  277  cd ..
+  278  cp 1.txt 2txt dir_1/dir_2
+  279  cp 1.txt dir_1/dir_2
+  280  cp 1.txt dir_1/subdir_1
+  281  cp 1.txt subdir_1/1.txt
+  282  ls subdir_1
+  283  cp 2.txt subdir_1/2.txt
+  284  ls subdir_1
+  285  find. -1.txt
+  286  find. - 1"*.txt
+  287  cd..
+  288  cd ..
+  289  find ./1.txt
+  290  cd dir_1
+  291  find .-/1.txt
+  292  find .-name"*.txt
+  293  1
+  294  cd..
+  295  cd ..
+  296  cd ..
+  297  find . -name 1.txt
+  298  find . -name "1.txt"
+  299  ls | grep 1.txt
+  300  ls | grep dir
+  301  grep 'dir_1' 1.txt
+  302  ls | grep txt
+  303  tail -f
+  304  tail -f 1.txt
+  305  grep my file.txt
+  306  cd dir_1
+  307  cd folder_1 dir_1
+  308  cd folder_1
+  309  cd dir_1
+  310  grep my file.txt
+  311  grep 1.txt
+  312  $ tail -f 1.txt
+  313  tail -F 1.txt
+  314  pwd
+  315  mkdir homework
+  316  ls
+  317  ls -la
+  318  cd homework
+  319  mkdir dir_1 dir_2 dir_3
+  320  ls-la
+  321  ls -la
+  322  cd dir_1
+  323  touch 1.txt 2.txt 3.txt 4.json 5.json
+  324  ls -la
+  325  mkdir home_1 home_2 home_3
+  326  ls -la
+  327  cat > 1.txt
+  328  cat 1.txt
+  329  cd ..
+  330  mv 2.txt dir_2/2.txt
+  331  cd dir_1
+  332  mv 2.txt dir_2/2.txt
+  333  mv 2.txt home_1/2.txt
+  334  mv mv 2.txt dir_1/2.txt
+  335  cd home_2
+  336  2.txt dir_1/2.txt
+  337  cd home_1
+  338  cd ..
+  339  cd home_1
+  340  2.txt dir_1/2.txt
+  341  cd ..
+  342  mv 2.txt dir_1/2.txt
+  343  cd home_1
+  344  mv 2.txt dir_1/2.txt
+  345  cd ..
+  346  mv 3.txt home_1/3.txt
+  347  cd home_1
+  348  ls
+  349  cd ..
+  350  cp 1.json home_2/1.json
+  351  cp 4.json home_2/4.json
+  352  cp 5.json home_2/5.json
+  353  cd home_2
+  354  ls
+  355  find home_2/4.json
+  356  cd ..
+  357  find home_2/4.json
+  358  tail -F 1.txt
+  359  ls
+  360  cd home_1
+  361  ls
+  362  vim 2.txt
+  363  ls -la
+  364  cat 2.txt
+  365  head 2.txt
+  366  head -n4 2.txt
+  367  tail -n4 2.txt
+  368  man less
+  369  less 2.txt
+  370  date
+  371  GIT_URL: http://162.55.220.72:5005/terminal-hw-request
+  372  curl http://162.55.220.72:5005/terminal-hw-request
+  373  explorer .
+  374  mv 2.txt 2.json
+  375  ls
+  376  curl 'http://162.55.220.72:5005/terminal-hw-request'
+  377  history
+  378  history  >> hist.txt
